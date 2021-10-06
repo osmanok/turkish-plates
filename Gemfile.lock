@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    turkish_plates (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.5.1)
+    rake (13.0.6)
+
+PLATFORMS
+  x86_64-darwin-21
+
+DEPENDENCIES
+  json
+  rake (~> 13.0)
+  turkish_plates!
+
+BUNDLED WITH
+   2.2.28
